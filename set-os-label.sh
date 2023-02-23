@@ -7,6 +7,7 @@
 # Author: Nicolas Vongeheur
 # email: nicolas.vongeheur@tribe29.com
 #
+# GitHub: https://github.com/NicolasVongeheur/set-os-labels
 
 source /etc/os-release
 
